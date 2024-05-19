@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat May 18 17:33:02 2024
+# Process ID: 295398
+# Current directory: /home/minseok/study/vivado/0517HW_UARTrx/0517HW_UARTrx.runs/synth_1
+# Command line: vivado -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: /home/minseok/study/vivado/0517HW_UARTrx/0517HW_UARTrx.runs/synth_1/top.vds
+# Journal file: /home/minseok/study/vivado/0517HW_UARTrx/0517HW_UARTrx.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace
